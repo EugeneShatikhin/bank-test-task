@@ -1,0 +1,9 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+
+# Avoid storing secrets in source control
+appsettings*.json
